@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wilmer Andrés Soto Almeida
 - 👀 I’m interested in to progress with an I.T technology...
-- 🌱 I’m currently learning different programming languages ..s.
+- 🌱 I’m currently learning different programming languages ...
 
 
 <!---
