@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilmer Andres Soto Almeida</h1>
+<p align="center">
+<img  src="https://devtechnosys.com/insights/wp-content/uploads/2020/04/Full-Stack-Developer.gif"  height="200" width="400" alt="Coding"/>
+ </p>
 <h3 align="center">I love learning other programming languages, focused on backend development but I have no problem with frontend development.</h3>
 
 - 🔭 I’m currently working on [Btender](https://github.com/WilSotoA/btender-v2.git)
