@@ -4,10 +4,6 @@
 <a href="https://www.linkedin.com/in/wilmer-soto-73b360272" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
-
- ****
-
- <br/>
 <h1 align="center" style="color: rgb(241, 148, 148)">About Me</h1>
 <img align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2020/04/Full-Stack-Developer.gif" style="border-radius: 2rem; box-shadow: 0.4rem 0.5rem 1rem 0.2rem rgb(241, 148, 148) " height="200" width="350" alt="Coding"/>
 <p align="left">I love learning other programming languages, focused on backend development but I have no problem with frontend development.</p>
