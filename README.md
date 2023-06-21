@@ -1,6 +1,4 @@
-<p align="center"><img src="src/writer.gif" style="border-radius: 1rem; box-shadow: 0.2rem 0.2rem 1rem 0.2rem rgb(241, 148, 148)" height="60px"></img></p>
-<br>
-
+<p align="center"><img src="src/writer.gif" style="border-radius: 1rem; box-shadow: 0.2rem 0.2rem 1rem 0.2rem rgb(241, 148, 148)" height="90px"></img></p>
 <h1 align="center" style="color: rgb(241, 148, 148)">About Me</h1>
 <img align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2020/04/Full-Stack-Developer.gif" style="border-radius: 2rem; box-shadow: 0.4rem 0.5rem 1rem 0.2rem rgb(241, 148, 148) " height="200" width="350" alt="Coding"/>
 <p align="left">I love learning other programming languages, focused on backend development but I have no problem with frontend development.</p>
