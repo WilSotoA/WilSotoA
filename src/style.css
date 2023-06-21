@@ -1,0 +1,56 @@
+.container {
+  display: flex;
+  height: 128px;
+  flex-direction: column;
+  background-color: rgba(41, 45, 62, 0.904);
+  border-radius: 2rem;
+  text-align: center;
+  font-family: monospace;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+.container-circles{
+  align-self: flex-start;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.circle {
+  width: 0.8rem;
+  height: 0.8rem;
+  border-radius: 50%;
+  color: white;
+  margin-right: 1.2rem;
+  margin-top: 1.2rem;
+}
+.circle-green {
+  background-color: rgb(148, 241, 160);
+}
+.circle-red {
+  background-color: rgb(241, 148, 148);
+}
+.circle-yellow {
+  background-color: rgb(239, 241, 148);
+}
+
+#typing-effect {
+  font-size: 3rem;
+  justify-self: center;
+  align-self: center;
+  width: max-content;
+  height: min-content;
+  color: rgb(241, 148, 148);
+  border-right: 5px solid rgb(241, 148, 148);
+  animation: blink-border 1s step-end infinite;
+}
+
+@keyframes blink-border {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: rgb(241, 148, 148);
+  }
+}

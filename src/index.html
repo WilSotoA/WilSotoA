@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <title>Maquina de escribir</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="container-circles">
+        <div class="circle circle-red"></div>
+        <div class="circle circle-green"></div>
+        <div class="circle circle-yellow"></div>
+      </div>
+        <h1 id="typing-effect">Hi 👋, I'm Wilmer Andres Soto Almeida</h1>
+    </div>
+
+    <script>
+      const maquina3 = document.getElementById("typing-effect");
+      const maquinaEscribir3 = (text = "", tiempo = 80, etiqueta = "") => {
+        let arrayCaracteres = text.split("");
+        etiqueta.innerHTML = "";
+        let i = 0;
+        let j = text.length;
+        let escribir = setInterval(function () {
+          if (i === arrayCaracteres.length) {
+            etiqueta.innerHTML = text.substring(0, j);
+            j--;
+            if (j === 0) {
+              etiqueta.innerHTML = "";
+              i = 0;
+              j = text.length;
+            }
+          } else {
+            etiqueta.innerHTML += arrayCaracteres[i];
+            i++;
+          }
+        }, tiempo);
+      };
+      maquinaEscribir3("Hi 👋, I'm Wilmer Andres Soto Almeida", 60, maquina3);
+    </script>
+  </body>
+</html>
