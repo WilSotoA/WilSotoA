@@ -8,6 +8,7 @@
 <p align="right">
 <h1 align="center" style="color: rgb(241, 148, 148)"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
 <img align="right" src="https://devtechnosys.com/insights/wp-content/uploads/2020/04/Full-Stack-Developer.gif" style="margin-left:1rem;border-radius: 2rem; box-shadow: 0.4rem 0.5rem 1rem 0.2rem rgb(241, 148, 148) " height="200" width="40%" alt="Coding"/>
+</p>
 <p align="left">I love learning other programming languages, focused on backend development but I have no problem with frontend development.</p>
 
 - 🔭 I’m currently studying on **[SoyHenry](https://www.soyhenry.com/)**
@@ -19,9 +20,7 @@
 - 📫 How to reach me **wilmerandressotoalmeida@gmail.com**
 <br>
 <h2 align="center"><img src="https://repository-images.githubusercontent.com/260221443/de92a180-8c08-11ea-8ffb-466f620171ca" width="30"> Languages and Tools:</h2>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsotoa&show_icons=true&locale=en&layout=compact" alt="wilsotoa" /></p>
-<table style="border: 1px solid rgb(241, 148, 148); border-radius: 2rem; text-align: center">
+<table align="center" style="border: 1px solid rgb(241, 148, 148); border-radius: 2rem; text-align: center">
     <thead>
         <tr>
             <th style="text-align: center" colspan="4">Front-end</th>
@@ -41,7 +40,7 @@
     </tbody>
 </table>
 <br>
-<table style="border: 1px solid rgb(241, 148, 148); border-radius: 2rem; text-align: center">
+<table align="center" style="border: 1px solid rgb(241, 148, 148); border-radius: 2rem; text-align: center">
     <thead>
         <tr>
             <th style="text-align: center" colspan="5">Back-end</th>
@@ -66,7 +65,7 @@
     </tbody>
 </table>
 <br>
-<table style="border: 1px solid rgb(241, 148, 148); border-radius: 2rem; text-align: center">
+<table align="center" style="border: 1px solid rgb(241, 148, 148); border-radius: 2rem; text-align: center">
     <thead>
         <tr>
             <th style="text-align: center" colspan="5">Others</th>
@@ -82,3 +81,6 @@
     </tbody>
 </table>
 <br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilSotoA&show_icons=true&title_color=f19494&icon_color=f19494&text_color=ffffff&bg_color=292d3ee7&layout=compact" height="160px" width="40%" alt="wilsotoa" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=WilSotoA&show_icons=true&title_color=f19494&icon_color=f19494&text_color=ffffff&bg_color=292d3ee7" height="160px" width="40%" alt="wilsotoaStats" /></p>
