@@ -17,8 +17,8 @@
 - 💬 Ask me about **Javascript, php, css, Laravel**
 
 - 📫 How to reach me **wilmerandressotoalmeida@gmail.com**
-
-<h2 align="left">Languages and Tools:</h2>
+<br>
+<h2 align="center"><img src="https://repository-images.githubusercontent.com/260221443/de92a180-8c08-11ea-8ffb-466f620171ca" width="30"> Languages and Tools:</h2>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsotoa&show_icons=true&locale=en&layout=compact" alt="wilsotoa" /></p>
 <table style="border: 1px solid rgb(241, 148, 148); border-radius: 2rem; text-align: center">
