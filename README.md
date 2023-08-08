@@ -34,7 +34,8 @@
         </tr>
         <tr>
             <td colspan="2"><p align="center"><a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a></p></td>
-            <td colspan="2"><p align="center"><a href="https://react-redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="Redux" width="40" height="40"/></a><p align="center"></td>
+            <td><p align="center"><a href="https://react-redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="Redux" width="40" height="40"/></a><p align="center"></td>
+            <td><p align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/></a><p align="center"></td>
         </tr>
     </tbody>
 </table>
