@@ -60,7 +60,7 @@
             <td><a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40"/></a></td>
         </tr>
         <tr>
-            <td colspan="2"><p align="center"><a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg" alt="Drupal" width="40" height="40"/></a></p></td
+            <td colspan="2"><p align="center"><a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg" alt="Drupal" width="40" height="40"/></a></p></td>
             <td colspan="2"><p align="center"><a href="https://twig.symfony.com/" target="_blank" rel="noreferrer"> <img src="https://twig.symfony.com/images/logo.png" alt="Twig" width="40" height="40"/></a></p></td
         </tr>
         <tr>
