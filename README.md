@@ -10,11 +10,11 @@
 </p>
 <p align="left">I love learning other programming languages, focused on backend development but I have no problem with frontend development.</p>
 
-- 🔭 I’m currently studying on **[SoyHenry](https://www.soyhenry.com/)**
+- 🔭 I’m currently working in on **[esinergia](https://esinergia.co/)**
 
-- 🌱 I’m currently learning **Javascript,React,Redux,Laravel**
+- 🌱 I’m currently learning **Drupal,Twig, Symfony**
 
-- 💬 Ask me about **Javascript, php, css, Laravel**
+- 💬 Ask me about **JavaScript, PHP, CSS, Laravel**
 
 - 📫 How to reach me **wilmerandressotoalmeida@gmail.com**
 <br>
@@ -58,6 +58,10 @@
             <td><a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40"/></a></td>
             <td><a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/></a></td>
             <td><a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40"/></a></td>
+        </tr>
+        <tr>
+            <td colspan="2"><p align="center"><a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg" alt="Drupal" width="40" height="40"/></a></p></td
+            <td colspan="2"><p align="center"><a href="https://twig.symfony.com/" target="_blank" rel="noreferrer"> <img src="https://twig.symfony.com/images/logo.png" alt="Twig" width="40" height="40"/></a></p></td
         </tr>
         <tr>
             <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a></td>
